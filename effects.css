@@ -1,0 +1,24 @@
+div{padding-left:50px;margin-left:50px}
+a{font-size:20px}
+.right
+{
+	position: absolute;
+	right: 80%;
+	
+}
+
+form{
+			width:1000px; 
+            margin: auto;
+     }
+
+.search{
+        	width: 50%;
+        	padding: 10px;
+        	font-size: 10px;
+        }
+.submit{
+        	width: 15%;
+        	font-size: 20px;
+        	padding-bottom:5px;
+}
